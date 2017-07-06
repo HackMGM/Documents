@@ -1,2 +1,2 @@
-# Governance
-Brigade documentation governing the Brigade
+# Documents
+Documentation for reference and governance.
